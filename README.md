@@ -18,13 +18,15 @@ Download the pre-trained weights for the Visual Frontend and place it in the ./p
 2. The model is adapted from [Conv-TasNet](https://github.com/kaituoxu/Conv-TasNet) GitHub repository.
 
 ## Requirements
-Python >= 3.8
-PyTorch >= 2.5.0
-CUDA >= 12.4
-Other dependencies in requirements.txt
+
+	Python >= 3.8
+	PyTorch >= 2.5.0
+	CUDA >= 12.4
+	Other dependencies in requirements.txt
 
 ## Installation
-git clone https://github.com/yangwyy/AV-CrossMamba.git
-cd AV-CrossMamba
-pip install torch torchvision
-pip install -r requirements.txt
+
+	git clone https://github.com/yangwyy/AV-CrossMamba.git
+	cd AV-CrossMamba
+	pip install torch torchvision
+	pip install -r requirements.txt
