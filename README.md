@@ -22,3 +22,11 @@ Python >= 3.8
 PyTorch >= 2.5.0
 CUDA >= 12.4
 Other dependencies in requirements.txt
+
+Installation
+git clone https://github.com/yangwyy/AV-CrossMamba.git
+cd AV-CrossMamba
+pip install torch torchvision
+pip install -r requirements.txt
+
+hyperparameter
